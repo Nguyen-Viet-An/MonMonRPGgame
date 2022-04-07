@@ -1,0 +1,24 @@
+
+Wind Wolf
+Rank: 4
+Level: 9
+Attribute: wind
+Health: 90
+Attack: 70
+Defense: 55
+
+Thunder Bear
+Rank: 4
+Level: 16
+Attribute: thunder
+Health: 125
+Attack: 85
+Defense: 90
+
+Evil Dragon
+Rank: 4
+Level: 666
+Attribute: evil
+Health: 666
+Attack: 666
+Defense: 666
